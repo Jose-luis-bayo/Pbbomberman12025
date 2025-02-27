@@ -20,9 +20,7 @@ private:
 	int nivel_de_abilidad;
 	int nivelProteccion;
 public:
-	string getNombre() { return nombre; }
-	void setNombre(string_nombre){Nombre=}
-public:
+	
 	//Bomberman();
 	//~Bomberman();
 };

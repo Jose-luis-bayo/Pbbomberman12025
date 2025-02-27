@@ -132,7 +132,9 @@
     <ClCompile Include="Bomberman.cpp" />
     <ClCompile Include="Enemigo.cpp" />
     <ClCompile Include="Escenario.cpp" />
+    <ClCompile Include="IndicadorVidas.cpp" />
     <ClCompile Include="principal.cpp" />
+    <ClCompile Include="PuertaSalida.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Bloque.h" />
@@ -140,6 +142,8 @@
     <ClInclude Include="Bomberman.h" />
     <ClInclude Include="Enemigo.h" />
     <ClInclude Include="Escenario.h" />
+    <ClInclude Include="IndicadorVidas.h" />
+    <ClInclude Include="PuertaSalida.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
